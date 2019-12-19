@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">GranjApp</string>>
+    <string name="animales">Animales</string>
+    <string name="cultivos">Cultivos</string>
+    <string name="tareas">Tareas</string>
+    <string name="calendario">Calendario</string>
+    <string name="m_s">Más</string>
+    <string name="camada_1">Camada 1</string>
+    <string name="camada_2">Camada 2</string>
+    <string name="camada_3">Camada 3</string>
+    <string name="camada_4">Camada 4</string>
+    <string name="tabla_de_trabajo">Tabla de Trabajo</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="cerrar_sesi_n">Cerrar Sesión</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_tareas">tareas</string>
+    <string name="title_activity_login">Iniciar sesión</string>
+    <string name="prompt_email">Correo electrónico</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="action_sign_in">Iniciar Sesión</string>
+    <string name="action_sign_in_short">Iniciar Sesión</string>
+    <string name="welcome">"Bienvenido !"</string>
+    <string name="invalid_username">Nombre de usuario no válido</string>
+    <string name="invalid_password">La contraseña debe ser mayor a 8 caracteres</string>
+    <string name="login_failed">"Inicio de sesión fallido"</string>
+    <string name="camadaTitle"></string>
+</resources>

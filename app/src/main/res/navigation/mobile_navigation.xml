@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/Tareas">
+
+    <fragment
+        android:id="@+id/Tareas"
+        android:name="com.example.lagranjaapp.ui.home.HomeFragment"
+        android:label="Tareas" />
+
+    <fragment
+        android:id="@+id/Cultivos"
+        android:name="com.example.lagranjaapp.ui.notifications.CultivosFragment"
+        android:label="Cultivos" />
+
+    <fragment
+        android:id="@+id/Perfil"
+        android:name="com.example.lagranjaapp.ui.notifications.ExtrasFragment"
+        android:label="Perfil"
+        tools:layout="@layout/fragment_perfil" />
+
+    <fragment
+        android:id="@+id/Animales"
+        android:name="com.example.lagranjaapp.ui.dashboard.DashboardFragment"
+        android:label="Animales" />
+
+    <fragment
+        android:id="@+id/Tabla"
+        android:name="com.example.lagranjaapp.ui.notifications.TablaFragment"
+        android:label="Tabla de Trabajo"
+        tools:layout="@layout/fragment_tabla" />
+</navigation>

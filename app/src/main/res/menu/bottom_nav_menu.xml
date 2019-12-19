@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/Animales"
+        android:icon="@drawable/huella"
+        android:title="Animales" />
+    <item
+        android:id="@+id/Cultivos"
+        android:icon="@drawable/hoja"
+        android:title="Cultivos" />
+    <item
+        android:id="@+id/Tareas"
+        android:icon="@drawable/tarea"
+        android:title="Tareas" />
+    <item
+        android:id="@+id/Tabla"
+        android:icon="@drawable/trofeo"
+        android:title="Tabla de Trabajo" />
+    <item
+        android:id="@+id/Perfil"
+        android:icon="@drawable/usuario"
+        android:title="Perfil" />
+
+</menu>

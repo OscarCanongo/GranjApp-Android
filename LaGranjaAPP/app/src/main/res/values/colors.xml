@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Brown">#582909</color>
+    <color name="DarkBrown">#261103</color>
+    <color name="LightBrown">#BFA593</color>
+    <color name="Green">#2BB909</color>
+    <color name="DarkGreen">#1E5E0B</color>
+    <color name="LightGreen">#CEF1C3</color>
+    <color name="White">#FFFFFF</color>
+    <color name="ForestGreen">#2E4600</color>
+    <color name="Grass">#486B00</color>
+    <color name="Lime">#A2C523</color>
+    <color name="Earth">#7D4427</color>
+</resources>
